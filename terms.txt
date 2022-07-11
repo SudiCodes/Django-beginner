@@ -1,0 +1,10 @@
+functional view
+Object view
+
+Stateful API 
+DRF
+
+
+Mixins
+Generics
+Viewsets
